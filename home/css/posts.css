@@ -1,0 +1,34 @@
+@import url('mainstyle.css');
+@import url('navbar.css');
+@import url('footer.css');
+
+body {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px
+}
+
+#main-content {
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+
+.card {
+    width: 60%;
+    margin-top: 20px;
+}
+
+.pair {
+    width: 50%;
+}
+
+.card-text {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.modal-body-image {
+    width: 100%;
+    margin-bottom: 10px;
+}
+

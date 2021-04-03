@@ -1,0 +1,16 @@
+#headerWrapper {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    margin-top: 0px;
+    background: #000;
+}
+
+nav {
+    z-index: 10;
+}
+
+.navbar-brand {
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: 2px;
+}

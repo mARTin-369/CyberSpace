@@ -1,0 +1,48 @@
+@import url('mainstyle.css');
+@import url('navbar.css');
+@import url('footer.css');
+
+#main-content {
+    margin-top: 80px;
+}
+
+hr {
+    height: 2px;
+    border: dot;
+    color: blue;
+    background-color: darkblue;
+    width: 85%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.profile {
+    color: black;
+    text-decoration: none;
+}
+
+.profile:hover {
+    color: rgb(46, 45, 45);
+    text-decoration: none;
+}
+
+.right {
+    background-color: lightblue;
+    float: left;
+    width:100%;
+    padding: 15px 15px;
+    margin-top: 7px;
+}
+
+.left {
+    background-color: wheat;
+    float: left;
+    width:100%;
+    padding: 15px 15px;
+    margin-top: 30px;
+}
+
+form {
+    margin-top: 0;
+}
+

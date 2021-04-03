@@ -1,0 +1,8 @@
+@import url('mainstyle.css');
+@import url('navbar.css');
+@import url('footer.css');
+
+#main-content {
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
